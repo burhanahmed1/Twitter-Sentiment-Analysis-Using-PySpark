@@ -58,11 +58,10 @@ Data visualization techniques such as confusion matrices are used to evaluate th
 
 <div align="center">
   
-  The regression plot for `price` with respect to `waterfront`.
-  <img src="sc/reg_plot.png" alt="Regression Plot" width="700"/>
-  
- The box plot for `price` with respect to `sqft_above`.
-  <img src="sc/box_plot.png" alt="Box Plot" width="700"/>
+  <img src="sc/LR.png" alt="Scatter PLot" width="700"/>
+  <img src="sc/Kmeans.png" alt="Scatter Plot" width="700"/>
+  <img src="sc/KNN.png" alt="Scatter Plot" width="700"/>
+  <img src="sc/Confusion Matrix.png" alt="Confusion Matrix" width="700"/>
 </div>
 
 ## Contributing
