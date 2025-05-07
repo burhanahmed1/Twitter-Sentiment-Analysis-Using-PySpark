@@ -1,4 +1,4 @@
-# Distributed Sentiment Analysis of Twitter Data Using Apache Spark: A Machine Learning Approach
+# TwitSpark: Distributed Sentiment Analysis of Twitter Data Using Apache Spark
 
 Twitter Sentiment Analysis repository contains a project for performing sentiment analysis on Twitter data using Apache Spark.
 
